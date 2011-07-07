@@ -1,0 +1,47 @@
+###########
+## MACOS ##
+###########
+.DS_Store
+icon?
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+#############
+## WINDOWS ##
+#############
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+###########
+## LINUX ##
+###########
+.*
+*~
+!.gitignore
+!.htaccess
+# KDE
+.directory
+
+##############
+## TEXTMATE ##
+##############
+*.tmproj
+*.tmproject
+tmtags
+
+#############
+## CAKEPHP ##
+#############
+tmp/*
+app/tmp/*
+app/config/database.php
+!empty
+
+#############
+## PROJETO ##
+#############
